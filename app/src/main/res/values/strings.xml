@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kotlin_Quizz</string>
+    <string name="input_name">Votre pseudo</string>
+    <string name="btn_valide">JOUER</string>
+    <string name="questionText">Comment s\'appel la mascotte de Nintendo ?</string>
+    <string name="reponse_1">SONIC</string>
+    <string name="reponse_2">RAYMAN</string>
+    <string name="reponse_3">MARIO</string>
+    <string name="reponse_4">ALEX KID</string>
+    <string name="nom_joueur">Nom du joueur</string>
+</resources>
